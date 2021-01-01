@@ -1,0 +1,395 @@
+2021-01-01 11:54:33 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 11:54:34 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 11:54:34 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 11:54:42 INFO  home:38 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 11:54:49 INFO  home:65 - The login has been done
+2021-01-01 11:54:58 INFO  home:72 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 11:54:58 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 11:54:58 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 11:55:00 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 11:55:00 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 11:55:02 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 11:55:02 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 11:55:03 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 11:55:05 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 11:55:05 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 11:55:05 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 11:55:05 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 11:55:05 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 11:55:05 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 11:55:05 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 11:55:14 INFO  home:38 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 11:55:20 INFO  home:85 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
+2021-01-01 12:16:40 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:16:41 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:16:41 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:17:30 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:17:31 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:17:31 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:18:14 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:18:15 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:18:15 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:18:57 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:18:57 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:18:57 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:20:01 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:20:02 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:20:02 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:22:22 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:22:23 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:22:23 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:24:36 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:24:37 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:24:37 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:24:44 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:24:50 INFO  home:64 - The login has been done
+2021-01-01 12:24:59 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:24:59 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:25:00 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:25:01 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:25:01 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:25:03 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:25:03 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:25:04 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:25:06 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:25:06 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:25:06 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:25:06 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:25:06 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:25:58 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:25:59 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:25:59 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:26:07 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:26:13 INFO  home:64 - The login has been done
+2021-01-01 12:26:20 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:26:21 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:26:21 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:26:22 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:26:22 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:26:23 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:26:24 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:26:25 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:26:27 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:26:27 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:26:27 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:26:27 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:26:27 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:29:30 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:29:30 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:29:30 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:29:37 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:29:43 INFO  home:64 - The login has been done
+2021-01-01 12:29:52 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:29:52 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:29:53 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:29:54 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:29:54 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:29:55 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:29:56 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:29:57 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:29:59 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:29:59 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:29:59 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:29:59 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:29:59 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:30:25 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:30:26 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:30:26 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:30:34 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:30:39 INFO  home:64 - The login has been done
+2021-01-01 12:30:48 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:30:48 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:30:48 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:30:49 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:30:50 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:30:51 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:30:51 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:30:52 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:30:54 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:30:54 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:30:54 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:30:54 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:30:54 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:32:10 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:32:11 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:32:11 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:32:18 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:32:23 INFO  home:64 - The login has been done
+2021-01-01 12:32:29 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:32:29 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:32:30 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:32:31 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:32:31 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:32:32 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:32:33 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:32:34 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:32:36 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:32:36 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:32:36 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:32:36 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:32:36 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:34:13 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:34:14 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:34:14 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:34:22 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:34:28 INFO  home:64 - The login has been done
+2021-01-01 12:34:36 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:34:37 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:34:37 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:34:38 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:34:38 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:34:40 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:34:40 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:34:41 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:34:43 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:34:43 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:34:43 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:34:43 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:34:43 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:36:28 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:36:28 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:36:28 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:37:20 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:37:21 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:37:21 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:37:28 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:37:28 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:38:26 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:38:26 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:38:26 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:38:33 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:38:40 INFO  home:64 - The login has been done
+2021-01-01 12:38:49 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:38:50 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:38:50 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:38:50 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:38:50 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:38:52 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:38:52 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:38:53 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:38:55 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:38:55 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:38:55 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:38:55 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:38:55 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:39:37 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:39:38 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:39:38 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:39:45 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:39:51 INFO  home:64 - The login has been done
+2021-01-01 12:40:03 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:40:04 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:40:04 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:40:05 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:40:05 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:40:06 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:40:07 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:40:08 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:40:10 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:40:10 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:40:10 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:40:10 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:40:10 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:40:47 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:40:48 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:40:48 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:40:55 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:41:01 INFO  home:64 - The login has been done
+2021-01-01 12:41:09 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:41:09 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:41:09 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:41:10 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:41:11 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:41:12 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:41:12 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:41:13 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:41:15 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:41:15 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:41:15 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:41:15 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:41:15 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:53:55 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 12:53:55 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:53:55 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:54:03 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:54:11 INFO  home:64 - The login has been done
+2021-01-01 12:54:26 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 12:54:26 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 12:54:27 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 12:54:28 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 12:54:28 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 12:54:29 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 12:54:30 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 12:54:30 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 12:54:33 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 12:54:33 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 12:54:33 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 12:54:33 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 12:54:33 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 12:54:33 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 12:54:33 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 12:54:42 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 12:54:48 INFO  home:84 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
+2021-01-01 13:01:24 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 13:01:24 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:01:24 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:01:33 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 13:01:39 INFO  home:64 - The login has been done
+2021-01-01 13:01:47 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 13:01:47 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 13:01:47 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 13:01:50 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 13:01:50 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 13:01:52 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 13:01:52 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 13:01:53 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 13:01:55 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 13:01:56 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 13:01:56 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 13:01:56 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 13:01:56 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 13:01:56 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:01:56 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:02:03 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 13:02:11 INFO  home:84 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
+2021-01-01 13:05:28 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 13:05:28 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:05:28 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:05:36 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 13:05:42 INFO  home:64 - The login has been done
+2021-01-01 13:05:59 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 13:06:00 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 13:06:00 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 13:06:03 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 13:06:04 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 13:06:06 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 13:06:06 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 13:06:07 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 13:06:09 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 13:06:10 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 13:06:10 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 13:06:10 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 13:06:10 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 13:06:12 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:06:12 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:06:19 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 13:06:26 INFO  home:84 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
+2021-01-01 13:09:23 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 13:09:23 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:09:23 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:09:31 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 13:09:36 INFO  home:64 - The login has been done
+2021-01-01 13:09:44 INFO  home:71 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 13:09:44 INFO  mailCompose:29 - Clicked : Mail Compose
+2021-01-01 13:09:44 INFO  mailCompose:31 - Clicked : Maximize Button
+2021-01-01 13:09:46 INFO  mailCompose:36 - Captured : Recepient Mail Address
+2021-01-01 13:09:46 INFO  mailCompose:42 - Captured :  Mail Subject
+2021-01-01 13:09:48 INFO  mailCompose:48 - Captured :  Mail Draft
+2021-01-01 13:09:48 INFO  mailCompose:53 - Clicked : Mail Send Button
+2021-01-01 13:09:49 INFO  emailSentVerification:33 - Clicked : Sent 
+2021-01-01 13:09:52 INFO  emailSentVerification:38 - Clicked : Last Sent Mail 
+2021-01-01 13:09:53 INFO  emailSentVerification:43 - Clicked : Last sent Mail Header 
+2021-01-01 13:09:53 INFO  emailSentVerification:50 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 13:09:53 INFO  emailSentVerification:51 - Verified : Email has been sent Successfully
+2021-01-01 13:09:53 INFO  TC01_mailSentValidtion_positiveScenario:75 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 13:09:54 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:09:54 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:10:03 INFO  home:37 - The Expected Title Google  and the actual TitleGoogleare matched
+2021-01-01 13:10:10 INFO  home:84 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
+2021-01-01 13:27:30 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 13:27:31 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:27:31 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:27:39 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:27:51 INFO  home:64 - The login process has been completed successfully
+2021-01-01 13:28:00 INFO  home:70 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 13:28:00 INFO  mailCompose:28 - Clicked : Mail Compose
+2021-01-01 13:28:01 INFO  mailCompose:30 - Clicked : Maximize Button
+2021-01-01 13:28:04 INFO  mailCompose:35 - Captured : Recepient Mail Address
+2021-01-01 13:28:04 INFO  mailCompose:41 - Captured :  Mail Subject
+2021-01-01 13:28:06 INFO  mailCompose:47 - Captured :  Mail Draft
+2021-01-01 13:28:06 INFO  mailCompose:52 - Clicked : Mail Send Button
+2021-01-01 13:28:07 INFO  emailSentVerification:31 - Element Clicked : Sent 
+2021-01-01 13:28:09 INFO  emailSentVerification:36 - Element Clicked : Last Sent Mail 
+2021-01-01 13:28:10 INFO  emailSentVerification:41 - Element Clicked : Last sent Mail Header 
+2021-01-01 13:28:10 INFO  emailSentVerification:44 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 13:28:10 INFO  emailSentVerification:45 - Verified : Email has been sent Successfully
+2021-01-01 13:28:10 INFO  TC01_mailSentValidtion_positiveScenario:69 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 13:28:13 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:28:13 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:28:20 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:28:26 INFO  home:81 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
+2021-01-01 13:35:11 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 13:35:12 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:35:12 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:35:20 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:35:43 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 13:35:44 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:35:44 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:35:53 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:35:59 INFO  home:64 - The login process has been completed successfully
+2021-01-01 13:36:09 INFO  home:70 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 13:36:09 INFO  mailCompose:28 - Clicked : Mail Compose
+2021-01-01 13:36:09 INFO  mailCompose:30 - Clicked : Maximize Button
+2021-01-01 13:36:10 INFO  mailCompose:35 - Captured : Recepient Mail Address
+2021-01-01 13:36:10 INFO  mailCompose:41 - Captured :  Mail Subject
+2021-01-01 13:36:11 INFO  mailCompose:47 - Captured :  Mail Draft
+2021-01-01 13:36:12 INFO  mailCompose:52 - Clicked : Mail Send Button
+2021-01-01 13:36:13 INFO  emailSentVerification:31 - Element Clicked : Sent 
+2021-01-01 13:36:15 INFO  emailSentVerification:36 - Element Clicked : Last Sent Mail 
+2021-01-01 13:36:15 INFO  emailSentVerification:41 - Element Clicked : Last sent Mail Header 
+2021-01-01 13:36:15 INFO  emailSentVerification:44 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 13:36:15 INFO  emailSentVerification:45 - Verified : Email has been sent Successfully
+2021-01-01 13:36:15 INFO  TC01_mailSentValidtion_positiveScenario:74 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 13:36:17 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:36:17 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:36:25 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:36:31 INFO  home:81 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
+2021-01-01 13:38:14 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 13:38:15 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:38:15 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:38:22 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:38:30 INFO  home:64 - The login process has been completed successfully
+2021-01-01 13:38:40 INFO  home:70 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 13:38:41 INFO  mailCompose:28 - Clicked : Mail Compose
+2021-01-01 13:38:41 INFO  mailCompose:30 - Clicked : Maximize Button
+2021-01-01 13:38:42 INFO  mailCompose:35 - Captured : Recepient Mail Address
+2021-01-01 13:38:42 INFO  mailCompose:41 - Captured :  Mail Subject
+2021-01-01 13:38:44 INFO  mailCompose:47 - Captured :  Mail Draft
+2021-01-01 13:38:44 INFO  mailCompose:52 - Clicked : Mail Send Button
+2021-01-01 13:38:45 INFO  emailSentVerification:31 - Element Clicked : Sent 
+2021-01-01 13:38:47 INFO  emailSentVerification:36 - Element Clicked : Last Sent Mail 
+2021-01-01 13:38:47 INFO  emailSentVerification:41 - Element Clicked : Last sent Mail Header 
+2021-01-01 13:38:47 INFO  emailSentVerification:44 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 13:38:47 INFO  emailSentVerification:45 - Verified : Email has been sent Successfully
+2021-01-01 13:38:47 INFO  TC01_mailSentValidtion_positiveScenario:74 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 13:38:49 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:38:49 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:38:57 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:39:04 INFO  home:81 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
+2021-01-01 13:41:06 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 13:41:07 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:41:07 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:41:17 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:41:28 INFO  home:81 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
+2021-01-01 13:42:43 INFO  baseClass:21 - Properties loaded Successfully
+2021-01-01 13:42:44 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:42:44 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:42:52 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:42:57 INFO  home:64 - The login process has been completed successfully
+2021-01-01 13:43:06 INFO  home:70 - The Expected Title https://mail.google.com/mail/u/0/#inbox and the actual Titlehttps://mail.google.com/mail/u/0/#inboxare matched
+2021-01-01 13:43:06 INFO  mailCompose:28 - Clicked : Mail Compose
+2021-01-01 13:43:06 INFO  mailCompose:30 - Clicked : Maximize Button
+2021-01-01 13:43:08 INFO  mailCompose:35 - Captured : Recepient Mail Address
+2021-01-01 13:43:08 INFO  mailCompose:41 - Captured :  Mail Subject
+2021-01-01 13:43:09 INFO  mailCompose:47 - Captured :  Mail Draft
+2021-01-01 13:43:10 INFO  mailCompose:52 - Clicked : Mail Send Button
+2021-01-01 13:43:10 INFO  emailSentVerification:31 - Element Clicked : Sent 
+2021-01-01 13:43:13 INFO  emailSentVerification:36 - Element Clicked : Last Sent Mail 
+2021-01-01 13:43:13 INFO  emailSentVerification:41 - Element Clicked : Last sent Mail Header 
+2021-01-01 13:43:13 INFO  emailSentVerification:44 - Matched :both actual - Span Test EmailOriginal -Span Test Email 
+2021-01-01 13:43:13 INFO  emailSentVerification:45 - Verified : Email has been sent Successfully
+2021-01-01 13:43:13 INFO  TC01_mailSentValidtion_positiveScenario:74 - TC01_mailSentValidation_positiveScenario Passed
+2021-01-01 13:43:16 INFO  readExcel:32 - Data Parsing from Excel Begins
+2021-01-01 13:43:16 INFO  readExcel:63 - Data Parsing completed - Necessary data's are transferred from excel into an Array
+2021-01-01 13:43:24 INFO  home:37 - The Expected Title Google  and the actual Title Googleare matched
+2021-01-01 13:43:32 INFO  home:81 - The Password valuespan2323#and the actual passwordspan2323#are invalid not matched as well
