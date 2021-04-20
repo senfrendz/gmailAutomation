@@ -20,7 +20,6 @@ public class baseClass {
 		    log.info("Properties loaded Successfully");
 		return properties;
 	}
-		@BeforeSuite
 		public void launchBrowser() throws IOException {
 			loadPropertyFile();
 			
